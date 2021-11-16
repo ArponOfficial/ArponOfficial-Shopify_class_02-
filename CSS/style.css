@@ -1,0 +1,33 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	width: 80%;
+	margin: 0 auto;
+	text-align: center;
+	background: #e1ffff;
+}
+.image{
+	width: 100%;
+}
+.text_p{
+	width: 90%;
+	text-align:justify;
+	margin: 0 auto;
+}
+.button a{
+	border: 1px solid #0984e3;
+	padding: 10px 25px;
+	text-decoration: none;
+	color: #0984e3 ;
+	transition: 0.4s;
+}
+.button a:hover{
+	background-color: #0984e3;
+	color: #fff;
+	border: 1px solid #fff;
+}
+.space{
+	min-height: 200px;
+}
